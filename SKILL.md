@@ -1,11 +1,9 @@
 ---
 name: question-authority-dismantling
-description: Systematically dismantle official narratives, institutional claims, or
-  authority statements by identifying contradictions, exposing beneficiaries, and
-  revealing cynical motivations. This skill prov...
+description: Systematically dismantle official narratives, institutional claims, or authority statements by identifying contradictions, exposing beneficiaries, and revealing cynical motivations. This skill prov...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - question-authority-dismantling
