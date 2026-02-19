@@ -4,7 +4,7 @@ description: Systematically dismantle official narratives, institutional claims,
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4778
+  version: 1.0.4779
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - question-authority-dismantling
